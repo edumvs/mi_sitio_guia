@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
 <rect width="200" height="200" rx="30" fill="#2b4c9b"/>
 <text x="100" y="115" font-family="Arial" font-size="60" fill="#fff" text-anchor="middle">&lt;/&gt;</text>
 </svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+<rect width="200" height="200" rx="30" fill="#2b4c9b"/>
+<text x="100" y="115" font-family="Arial" font-size="60" fill="#fff" text-anchor="middle">&lt;/&gt;</text>
+</svg>
+>>>>>>> c7d3984dad3fa91a4741980bbe4d9f9c91db5f3d
